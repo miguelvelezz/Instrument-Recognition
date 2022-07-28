@@ -40,7 +40,9 @@ The contents of this repository should be downloaded and placed in a folder with
 
 Now, you run the file "run_scripts.sh" in terminal. This file will run the other python scripts sequentially on its own. The result will be another folder named "Image_Data" containing the subfolders titled "Train", "Validation", and "Test". 
 
-The process of creating and saving the images will likely take several hours. Once this is complete, you can open the jupyter notebook and follow along with the analysis presented therein.
+The process of creating and saving the images will likely take several hours. Once this is complete, you can open the jupyter notebook and follow along with the analysis presented therein. Access the jupyter notebook [here](https://github.com/miguelvelezz/Instrument-Recognition/blob/main/Instrument%20Recognition.ipynb).
+
+
 
 
 
